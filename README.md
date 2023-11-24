@@ -1,7 +1,7 @@
 # template 
 
-exemple de router avec architecture "mvc" à implementer
+Template pour le projet
 
 # usage 
 
-php -S localhost:8000 server.php
+php -S localhost:8000 main.php

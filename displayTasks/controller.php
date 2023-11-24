@@ -1,6 +1,8 @@
 <?php 
 
-require_once './tutu/view.php';
+require_once './displayTasks/view.php';
+require_once './displayTasks/data.php';
+
 
 function display_tasks(){
 
